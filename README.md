@@ -3,7 +3,7 @@
 </p>
 
 # Márcia Estrela
-<sub>*Data Scientist Learning*</sub>
+<sub>*Data Scientist Learner*</sub>
 
 Over 17 years of experience in Finance and Accounting , multilingual professional (Portuguese, English, and Spanish) holding an MBA in Corporate Finance and BA in Economics.
 
